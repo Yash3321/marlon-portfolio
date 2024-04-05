@@ -4,8 +4,7 @@
     transition: 1s
 
 
-    /* box-sizing: border-box ; */
-    /* border: 2px solid black; */
+  
 }
 
 body {
@@ -34,15 +33,13 @@ nav {
     align-items: center;
     margin-right: 120px;
     margin-left: 120px;
-    /* position: relative; */
-    
+
 
 
 }
  
 #home{
     scroll-margin-top: 80px;
-    /* scroll-margin-block: 100px; */
     
 
 }
@@ -82,7 +79,7 @@ a {
 
 svg{
     margin-top: 80px;
-    /* background-color: red; */
+    
     height: 25rem;
 }
 .home__blob {
@@ -98,9 +95,7 @@ svg{
 
 .profile_img {
     margin-top: 100px;
-    /* height: ; */
-    /* width: 25%; */
-    /* height: 10rem; */
+ 
     background-color: #3e6ff4;
 }
 
@@ -108,9 +103,9 @@ svg{
     display: flex;
     justify-content: space-around;
     margin-bottom: 5rem;
-    /* margin-top: 5rem; */
+   
     height: 34.5rem;
-    /* background-color: gray; */
+   
 
 }
 
@@ -119,10 +114,9 @@ svg{
 .about {
     display: flex;
     justify-content: center;
-    /* background-color: pink; */
+   
     margin-top: 20px;
-    /* position: relative; */
-    /* z-index: 12; */
+   
     height: 15rem;
     margin-bottom: 10rem;
 
@@ -141,18 +135,16 @@ svg{
 }
 
 .image2 {
-    /* background-color: red; */
-    /* border: 2px solid black; */
+
     width: 50rem;
     height: 20rem;
     margin-bottom: 1rem;
     
 
-    /* margin-left: 10rem; */
+  
 }
 .image2 img{
     border-radius: 1rem;
-    /* border: 2px solid black; */
 }
 /* about ends  */
 .pic img{
@@ -160,7 +152,7 @@ svg{
     height: 20rem;
     border-radius: 1rem;
     width: 30rem;
-    /* border: 2px solid black */
+
     
     
     
@@ -176,11 +168,7 @@ svg{
 
 .totalimg {
     display: flex;
-    /* flex-direction: column; */
-    /* flex-wrap: wrap; */
-    /* justify-content: center; */
     background-color: blue;
-    /* width: 100%; */
     width: 50%;
 }
 
@@ -188,19 +176,9 @@ svg{
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
-    /* justify-content: space-around; */
     justify-content: center;
     margin-bottom: 3rem;
     transition: 1s;
-    /* overflow: hidden; */
-    
-    
-    /* background-color: blue; */
-    /* flex-wrap: wrap; */
-    /* border-radius: 10px; */
-
-    /* width: 50%; */
-    /* flex-direction: column; */
 }
 .container img:hover{
     cursor: pointer;
@@ -239,12 +217,6 @@ svg{
 
 }
 
-
-
-
-/* total ends  */
-
-
 .contact {
     display: flex;
     justify-content: center;
@@ -264,7 +236,6 @@ button {
     background-color: #527ef6;
     color: white;
     padding: 0.75rem 2.5rem;
-    /* margin-left: 120px; */
     font-weight: bold;
     border-radius: 0.5rem;
     transition: 0.3s
@@ -278,7 +249,6 @@ button:hover {
     border: 0px;
     background-color: #527ef6;
     color: white;
-    /* padding: 0.75rem 2.5rem; */
     margin-left: 120px;
     font-weight: bold;
     border-radius: 0.5rem;
@@ -359,11 +329,3 @@ textarea {
     width: 20rem;
 }
 
-/* .placeholder {
-    font-weight: bold;
-} */
-
-/* #img1{
-    height: 100px;
-    width: 100px;
-  } */
